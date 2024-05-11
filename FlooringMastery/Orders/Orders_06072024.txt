@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+5,TEADCSD,CA,25.00,Laminate,122.00,1.75,2.10,213.50,256.20,117.43,587.13
